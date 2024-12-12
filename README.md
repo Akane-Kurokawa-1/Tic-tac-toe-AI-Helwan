@@ -80,7 +80,7 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out!
 
-- **GitHub**: [3ab3z2](https://github.com/3ab3z2)
+- **GitHub**: [Artemis :3](https://github.com/Akane-Kurokawa-1)
 
 ---
 
